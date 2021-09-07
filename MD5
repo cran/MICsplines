@@ -1,0 +1,13 @@
+45fa972e69d6d3c192fcc3849164f44f *DESCRIPTION
+7efdfc9af603ecb4ab2d9d8a61bb83ae *NAMESPACE
+953164eae257aea175c0c54f46e9e528 *R/MIC.splines.basis.fast.R
+c7aeb73125c7bb0fa2da9bdd7e915585 *R/Px.R
+c5af635572aec6520878877d3a5a156b *R/cls.R
+b82a5c8c08d894a92157b0ce44125b1a *R/clse.R
+d6d37a011cb5c52a7f1d0f4876d20394 *R/plot.MICsplines.R
+aba5550beb7732c9cb887c812f120a2c *build/partial.rdb
+8d2f60ca8e34f3193ba7bdd39200f57b *man/MIC.splines.basis.fast.Rd
+dd17993c5e248c0dac9a04677549387c *man/MICsplines-package.Rd
+b852db34a5daad6f9acb7261fff5cb61 *man/clse.Rd
+9bed4b3cc71a601b9800b57e9b7baf69 *src/MICsplines.c
+a8d7e63dd1ae9a9669ce73117a6e9878 *src/MICsplines_init.c

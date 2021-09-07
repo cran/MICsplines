@@ -1,0 +1,9 @@
+importFrom("graphics", "matplot")
+importFrom("stats", "quantile")
+
+S3method(plot, MICsplines)
+
+export(clse, MIC.splines.basis.fast)
+useDynLib(MICsplines, .registration = TRUE)
+
+
